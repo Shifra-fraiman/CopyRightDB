@@ -1,5 +1,5 @@
 FROM mcr.microsoft.com/mssql/server:2019-latest
-ENV SA_PASSWORD=YourStrongPassword
+ENV SA_PASSWORD=CopyRight#1
 ENV ACCEPT_EULA=Y
 EXPOSE 1433
 
